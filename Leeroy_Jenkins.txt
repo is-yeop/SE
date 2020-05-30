@@ -1,6 +1,6 @@
 Name: Leeroooooy Jeeeeenkins
 Cost: 4
-Attack: 6
+Attack: 5
 Health: 2
 Ability:
 	Charge.
