@@ -1,4 +1,4 @@
-Name: Leeroooooy Jeeeeenkins
+Name: Leeroy Jenkins
 Cost: 5
 Attack: 6 
 Health: 2
